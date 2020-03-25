@@ -1,0 +1,1014 @@
+App Name,App Id,App Type,Permissions,Users,Type,Link,Total Users,Rating,Users Rated,Overview,Description,Developer,Mark Trusted?
+Zocdoc,1001492795798-tanp8tjt0fkglvrd2e6ekp1qoukv2v0r.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+App in the Air,1003804154726-vdqt1baa7tiraknveg82uhg3funvs58i.apps.googleusercontent.com,Web Application,"Gmail, Calendar",1,,,,,,,,,Yes
+GipsyTime,1005107182837-r3lef4cn76cs46o0ib36s7486vos193g.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+PicMonkey,1005542825533.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+The New York Times,1005640118348-amh5tgkq641oru4fbhr3psm3gt2tcc94.apps.googleusercontent.com,Web Application,Others,20,Meta,,,,,,,,No
+The New York Times,1005640118348-vsu060dtgu5k028ce5qr0j9ogn9jmkj1.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+gitlab scrape test,100607553994-kdb8gpoob99u5vap9o0uahtbgj8jr553.apps.googleusercontent.com,Web Application,Apps Script Runtime,1,Apps Script,,,,,,,,No
+NewSupplierForm,1006508925734-b2b33eft86dhblpeuuhqd2lvs9g6908o.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Code Blocks,100740430168-ccef2jver66p0elj5oq56gtkr0j91ket.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",4,Apps Script,https://gsuite.google.com/u/2/marketplace/app/app/100740430168,"1,084,111",4,993,Syntax highlighting for Google Docs,"Code Blocks makes it easy to put your code into Google Docs. Simply select some text, click the ""Format"" button, and it will be formatted with the color theme of your choice.
+
+Features:
+• One-click syntax highlighting
+• Automatic language detection (or choose it yourself)
+• Lots of color themes
+• Format code inline or as blocks (1x1 tables)
+• Preview changes before updating your document
+• More to come...
+
+Enjoy!
+
+NOTE: Code Blocks does not provide real-time syntax highlighting or code formatting. To get these features, you will need to use a separate editor.",Alex Forsythe,Yes
+PnL,1010545529669-jset4ju82lvaqm16lk4h7i0tc0evu5pb.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+OpenTable,1011230515163-arsl01gv134b0sjidu62bkp3hub3nuj3.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Text Editor for Google Driver,1014087004651-oudd5akb9l92rrvr3qe2krgvc1ocmi52.apps.googleusercontent.com,Web Application,Drive,2,,https://gsuite.google.com/u/2/marketplace/app/app/1014087004651,"15,786",3,328,"A powerful and lightweight Text editor, extractor for Google Drive. It allow you to edit the Text file, Extract text from file.","A powerful and lightweight Text editor, extractor for Google Drive.
+This app allows you to edit the Text file, Extract plain text and mail attachments from a binary(msg, winmail.dat, pdf) file.
+
+You can choose a text file to edit from Google Drive. Provides connect with Google Drive.
+You can easily view or edit your text file, you can also use it as e-book reader to open txt novel. html, javascript, css... syntax highlighting, Vim editor mode support.
+
+*Extract text from the binary file. Google Drive and Local Computer. Document to Text.
+Supported formats:
+pdf,doc,dot,docx,docm,dotx,dotm
+xls,xlw,xla,xlt,xlsx,xlsm,xltx,xltm,xlsb
+ppt,ppa,ppsx,ppsm,pps,pot,pptx,pptm
+potx,potm,odt,ods,odp,fodt,ott,fodp,otp
+fods,ots,rtf,ps(Postscript)
+epub(eBook),mobi(eBook),chm(HTML Help),hlp,fb2,tex,latex,mht,mhtml,hwp,Apple iWorks(pages,key)
+msg(outlook, attachments),winmail.dat(TNEF format, attachments),pdf(attachments)
+ics,ical,ifb,icalendar(iCalendar format to tsv) webarchive(extractor)
+lnk(Windows lnk) DS_Store,DSStore(.DS_Store format)
+dbf(dBase/dbf to csv, dbf to txt) fp3,fp5(Filemaker DB to txt) fdb(Firebird DB to csv, version 2.5 or lower)
+wk4,123(Lotus wk4/123 to csv) vcf(VCard to csv)
+smi,vtt,sbv,sub,stl(Subtitles to srt format, sbv: YouTube Subtitle, sub: SubViewer, stl: DVD Studio Pro)
+srt(srt subtitle to web VTT format)
+htm,html (optional)",texteditor.nsspot.net,Yes
+Gmail_Autofilters_OLD,1014146847772-5obqlj3m6ppk6du7dujd3auep03bjgf3.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Adobe,1014431251553-1th00sgm1evm88p73r3el860kokvnlbe.apps.googleusercontent.com,Web Application,Others,5,Meta,,,,,,,,No
+Cloud NEXT 2019,1021136005570-a0sms6gs01fiucesevie7u57rr8fdg36.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+TRC Core Enterprise,1021947821914-0sv3o023b97b8ukhtdr5jm9mstml0d4e.apps.googleusercontent.com,Web Application,Admin,1,Internal,,,,,,,,No
+TRC Core Enterprise,1021947821914-14524so1ghr1gs63ng70kafqnkpta6m1.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-3sspc0rhgp09nbha4700r7666tnpukgj.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-44h2drpermkjg418q8fov2d84au19kgd.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-4d19d2cgq7r9v3qv0afdnu4jhcu571c7.apps.googleusercontent.com,Web Application,Drive,3,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-at9pqqinifrk1bv4ugm1qdtjk3n39krs.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-ghfjtaoqrc3tserv7par7b14iacojh7m.apps.googleusercontent.com,Web Application,Gmail,4,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-hddf0mdgm5g4b2pbbt58akt30n4s7kk1.apps.googleusercontent.com,Web Application,Gmail,3,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-iblfpn86gkef55rovh2ks8vem0k4n93u.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-iojaja98htv8s6vt5nm50mavi7eepqah.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-jk5drv6pmurvjac98kmjhmb9fa5apbgf.apps.googleusercontent.com,Web Application,"Calendar, Admin, Vault",2,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-kvode38ddu1eqquuupcmd4di17b9vqlg.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-m6h4p625u3eqoc2m5ppn51j3derkgtec.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-nenjsc3uhoun4620ogjdgjic3g5cnrhm.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-qjpbecqg7ehnq9pho88oqres24bporc6.apps.googleusercontent.com,Web Application,Gmail,1,Internal,,,,,,,,Yes
+TRC Core Enterprise,1021947821914-vg0i93p4kbglkp4nioo1js5v9q54a1t2.apps.googleusercontent.com,Web Application,Gmail,2,Internal,,,,,,,,Yes
+Qwiklabs,1023251155897-tb54g624q9e77gtsrnemgv4c2ihekurv.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Kayako Login,102829875229-5e8asgjqcui9pktgu5khmpb2bq6q310s.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+New Scientist,1030727279051-2ut2l4krgju3uo6s7bhmgiptvejl1pjo.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Lumin PDF,1031094922298-hcmpll8999ct57grncagnql87pnihmmi.apps.googleusercontent.com,Web Application,Drive,27,,https://gsuite.google.com/u/2/marketplace/app/app/1031094922298,"970,759",3,9289,"Open, edit and share PDF and Office files in your browser. Simple, fast, and easy to use Highlight, edit and sign PDF files with this modern PDF tool! Lumin PDF allows you to edit and share PDF files in real-time. With Lumin PDF you can: - Highlight and underline text - Erase blocks of text - Add digital signatures - Rotate and remove individual pages - Draw lines and shapes - Add comments* - Much more","Highlight, edit and sign PDF files from your browser! Lumin PDF allows you to share and edit PDF files in real-time.
+
+With Lumin PDF you can:
+- Highlight and underline text
+- Erase blocks of text
+- Add digital signatures
+- Rotate and remove individual pages
+- Draw lines and shapes
+- Add comments*
+- Much more
+
+Most features are free. A Lumin Premium subscription is required for the features indicated with (*).
+
+Lumin automatically works with Gmail and Google Drive, allowing you to view your files or email attachments without downloading them. Files are converted from the original format to PDF for quick and easy viewing.
+
+Lumin integrates with the following cloud storage providers:
+- Google Drive
+- Dropbox
+- Onedrive
+- Box
+
+After installing Lumin you will be able to open documents in Google Drive. Right click any file and select 'open with' > 'Lumin PDF'",Nitrolabs Limited,Yes
+JetBrains Single Sign-on (Hub),1032026974949-jddanq3a9hsqelr54dq74l0t1lrksfav.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Asana,1032199425885-oq9scukspijc682n7k2erv386nc58que.apps.googleusercontent.com,Web Application,Others,20,Meta,https://gsuite.google.com/u/2/marketplace/app/app/1032199425885,"3,174,496",4,108,Asana is the easiest way for teams to track their work and get results.,"Asana is the easiest way for teams to plan, manage, and track their work—so you know who’s doing what by when. It’s free and simple to get started, and powerful enough to run your entire business. Download now and see how Asana empowers teams to get great results. Learn more: www.asana.com
+
+Plan and track your work with:
+-Easy to set up projects and tasks
+-Dashboards to track progress and goals
+-List, board, and calendar views
+
+The Asana for Gmail Add-On is now available! Turn tasks into emails, assign responsibility, set due dates, and connect emails to projects all without leaving your Gmail inbox.  Search Asana for Gmail in the marketplace to install.
+
+Asana is recommended for G Suite and integrates across most G Suite tools. You'll be able to:
+-Attach documents from Google Drive directly to your Asana tasks and projects
+-Make conversations actionable by turning emails into tasks from within your Gmail inbox
+-Ensure secure sign-on with your teams existing Google credentials through Single Sign On authentication
+-Output Asana dashboard tracking into reports within Google Sheets
+-Turn Google Forms information into trackable tasks in Asana",app.asana.com,No
+TRC Enterprise Production Engineering,1032253577256-ji7utcu1m5jocc5kft1s4e2r1216ln06.apps.googleusercontent.com,Web Application,Calendar,2,,,,,,,,,Yes
+Indiatoday,1034467138740-upqhri70dlfdloa7een22r96d84b9v24.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Recorded Macros (Untitled spreadsheet),1034831247363-3o4rjnj0pc3s5p6h851mn62htp69dhn3.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Luxury Escapes,1034926809216-n6rpg0vivi0aav775gs8cdndh17jkist.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Noisli,1035060964841-o6cg1vortrufggv7a777otmkrn8eqjs5.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Times Of India,103703403489-b4t4lt8mr05brqpcdrmsu0di54cmjv4f.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Untitled project,1052196649182-2v50sbfgdslb357pn65trrmh78q48r4p.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Typing.io,1053160013860-87e4bvgv78elvs19u5eup3tupo1cmd4a.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+time,1059943037426-sfhrcee2917ra99moq8batbhuu4pmlvs.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Testing,1064305533524-1ee9e5q2o6p4cevvnbouh0ick8ufvmui.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Untitled project,1064756101458-ef5ev2hpproqse91lmemc2kkjfig4f12.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+JIRA,1065897371335-h27ipppsl765bkjn8eifecn2hcjqpkqi.apps.googleusercontent.com,Android,Others,2,Meta,,,,,,,,No
+BrowserStack,1066772918720-qoh6r25jl6mcn28aqoirn3gp7s1gucmk.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Wayfair,10668954132-ii0pv9vd2t4i2j3egv9bj249hf187v5j.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Udacity,1069728276824-7sem2lgr69vs4liabjj8corbps661iu4.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Promevo Sales Portal,1070256336893-te9lueoq74ugak3ig95tdvl37umqetml.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Tripadvisor,1070328450902.apps.googleusercontent.com,Web Application,Others,12,Meta,,,,,,,,No
+Neighbor,1070544743919-ff6d0kl51otlh9u3qghrgmhaidh9v8q4.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+eBay,1077078376996-tiuoaddhjh4ch2h4dnokcu4uq3576n9g.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Realtor.com,1077613200872-2643uknuh1i8rfjgjd0jrkmm3frqqdo9.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Google Drive for Confluence & Jira,1080080380801-1s13bahdvlh579fstpjm8o168v1e4c3m.apps.googleusercontent.com,Web Application,Drive,25,,,,,,,,,Yes
+Scott's Cheap Flights,108147266412-33njno1el2aaf0raqc4dhi2l196vjgt4.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Fetch_FinDataSQL,1082484789197-glso4ncgh5seeaoj4phs6h6sr99brt1o.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Tableau,108315368982-fhk59oh0vmpj8vif1smea64flvfg4tv0.apps.googleusercontent.com,Web Application,Drive,7,,,,,,,,,Yes
+Tableau,108315368982-mfe7b31cbom80toum943mgg250p8hsl4.apps.googleusercontent.com,Web Application,Drive,2,,,,,,,,,Yes
+WordPress,108380595987-j91sm1alavcdgd81i2655kp8q1lbtvrc.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Hipmunk,108670380482-srf0he2fu64lrdjlbqeoqguha4qr268v.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+PnL,1088339617851-a948b1uc6bid2bc7lr55ehgmol9qbp2m.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Exif Meta Viewer for Drive,111863700124-074s5qoqq5p2mc2h50abftn5ktc7m1ln.apps.googleusercontent.com,Web Application,Drive,2,,https://gsuite.google.com/u/2/marketplace/app/app/111863700124,"20,679",4,455,"Exif Viewer is a tool that shows the Exif, Meta info of your pictures, docs. Extracts and displays the Exif, IPTC metadata.","Exif Viewer is a tool that shows the Exif, File Type Analysis, meta, file information of your pictures, ebooks, documents, archive, images, audio, and other formats.
+
+Extracts and displays the Exif (Exchangeable Image File), IPTC-NAA/IIM (International Press Telecommunications Council / Newspaper Association of America), and IPTC Core (Adobe XMP, Extensible Metadata Platform) metadata, as stored by digital still cameras.
+This app also can identify file types from the binary signatures.
+
+Provides connect with Google Drive. You can open files from Google Drive, your computer, or from URL.
+
+Supported formats:
+png, jpg, jpeg, cr2, crw, dng, nef, raw, xmp, gif, tif, bmp...
+doc, docx, ppt, pptx, xls, xlsx, epub, azw, pdf, odt, mobi, zip, rar, gz, swf, torrent.. 
+pictures, ebooks, documents, archive, images, audio, and more.",exifviewer.herokuapp.com,Yes
+Calendars 5,115462536866-ulmt0i7ik48sjee47lju68saffpg0kkg.apps.googleusercontent.com,iOS,Calendar,1,,,,,,,,,Yes
+Events Calendar,115749518092-rufq0461dc4c1rjar0mb4eh84emoahgl.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+DocHub - PDF Sign & Edit,1179802238-202ueh12c57itr8t99rlpp8tem3s5bk8.apps.googleusercontent.com,Web Application,Drive,13,,https://gsuite.google.com/u/2/marketplace/app/app/1179802238,"4,494,044",4,10862,"Sign PDF or document files, create forms and edit PDFs online for free! Apply legally binding eSignatures, send (or receive) faxes, create reusable templates and more.","Sign, edit and share PDF and Word documents online:  DocHub - the way the world manages documents.
+
+Editor Tools:
+* Insert Text
+* Draw (lossless, vector based)
+* Highlight
+* Comment
+* Erase
+* Sign
+* Insert Image
+* Stamp
+* Undo/Redo
+
+Page Management:
+* Merge documents
+* Reorder pages
+* Append pages
+* Rotate pages
+* Delete pages
+
+PDF Features:
+* Retina display optimized
+* Lossless editing (retains original document quality after signing or editing)
+* Fill forms
+
+Document Templates:
+* Upload a template once then...  
+   ...easily fill it out a unique copy of it as many times as you need.
+   ...send copies of it to multiple people for signing or filling.
+
+Document Sharing:
+* Email documents
+* Collaborate on a document with individuals or organizations
+* Choose to make your document 'public' or 'private'
+* Share 'public' documents on Facebook, Twitter or anywhere
+
+Signing:
+* Easily sign and save any document
+* Create and import signature from phone
+* Send documents to others to be signed
+
+Security:
+* OAuth 2.0 authentication ensures only you can access your account
+* Data is transferred using state of the art 128 to 256 bit EV SSL Encryption
+* Saved documents are stored and backed up using Advanced Encryption Standard (AES) 256-bit symmetric keys
+
+Compatibility:
+* Works with all PDFs, Open Office and Microsoft Office Documents:  (PDF, DOC, PPT, XLS, TXT, DOCX, PPTX and many more...)
+* Export documents as either PDF or DOC
+
+Open/Import Documents Directly From:
+* Your computer
+* Gmail
+* Google Drive
+* Dropbox
+* Any webpage URL",Macroplant LLC,Yes
+DocHub - PDF Sign & Edit,1179802238-balmr1e5m7sdgvoeu5lp28a5g6luvim5.apps.googleusercontent.com,Web Application,Drive,7,,https://gsuite.google.com/u/2/marketplace/app/app/1179802238,"4,494,044",4,10862,"Sign PDF or document files, create forms and edit PDFs online for free! Apply legally binding eSignatures, send (or receive) faxes, create reusable templates and more.","Sign, edit and share PDF and Word documents online:  DocHub - the way the world manages documents.
+
+Editor Tools:
+* Insert Text
+* Draw (lossless, vector based)
+* Highlight
+* Comment
+* Erase
+* Sign
+* Insert Image
+* Stamp
+* Undo/Redo
+
+Page Management:
+* Merge documents
+* Reorder pages
+* Append pages
+* Rotate pages
+* Delete pages
+
+PDF Features:
+* Retina display optimized
+* Lossless editing (retains original document quality after signing or editing)
+* Fill forms
+
+Document Templates:
+* Upload a template once then...  
+   ...easily fill it out a unique copy of it as many times as you need.
+   ...send copies of it to multiple people for signing or filling.
+
+Document Sharing:
+* Email documents
+* Collaborate on a document with individuals or organizations
+* Choose to make your document 'public' or 'private'
+* Share 'public' documents on Facebook, Twitter or anywhere
+
+Signing:
+* Easily sign and save any document
+* Create and import signature from phone
+* Send documents to others to be signed
+
+Security:
+* OAuth 2.0 authentication ensures only you can access your account
+* Data is transferred using state of the art 128 to 256 bit EV SSL Encryption
+* Saved documents are stored and backed up using Advanced Encryption Standard (AES) 256-bit symmetric keys
+
+Compatibility:
+* Works with all PDFs, Open Office and Microsoft Office Documents:  (PDF, DOC, PPT, XLS, TXT, DOCX, PPTX and many more...)
+* Export documents as either PDF or DOC
+
+Open/Import Documents Directly From:
+* Your computer
+* Gmail
+* Google Drive
+* Dropbox
+* Any webpage URL",Macroplant LLC,Yes
+Google Gather,122167620338-cf846ucgscod617b2jahi6p30e4cn7im.apps.googleusercontent.com,Web Application,Others,7,Meta,,,,,,,,No
+cloudHQ,125135905029.apps.googleusercontent.com,Web Application,"Gmail, Drive",3,,,,,,,,,Yes
+PnL,128625660981-6b2e868pee5fnug9067al9gtmfu0i7ek.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+GrabTaxi,141255113973-1crlpnp1dfraninhjf6bul9c48gl6sa6.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+GrabTaxi,141255113973-3bo26epvon2murd7ouh9l4ctipcg2m68.apps.googleusercontent.com,iOS,Others,1,Meta,,,,,,,,No
+Glassdoor,141714232794-u9pltfkeb9skmomag53kf4dt3p4mgp1a.apps.googleusercontent.com,Web Application,Others,35,Meta,,,,,,,,No
+GateRank Predictor,145591097846-7vt2q9hgp861hq7rh7tv0j4vmnd9rall.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+StreetEasy,147313643782-6g6eiu6pva3rofhad6e7csk4r701hbpf.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+Logitech,154719634762-miuv2h5iatn6fqvk0sb2s6eqdkhbt8oh.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+jdbc,156540554200-909c85jcn1gmqi102s5haceu4r9mk8id.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+SonyLIV Web,159799352625-rg89d99kqb2qdabo99lv822gsie7jgr5.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+"O'Reilly Media, Inc.",169467428391-861p65v1smjhiu0uftrp99d1l2ks2o7e.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+doc_template_creator,171587889764-4q48e2al2n0pu5cd443rpjg9cff9jdf2.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Logitech - LIdS,172892496965-51375kue6ntm5at0q7cjomt5gfsnocp4.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+flowkey,174289370194-eshqr9qiillf61qtcp9kgmj88aa18lj7.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+CouponCabin,174526201421-69efgat1b312k7tmucj89f00l1b1ognm.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Ritual,177798635244-a09op77j7lb5ubt63j4hdonhh8cqu4ae.apps.googleusercontent.com,iOS,Others,1,Meta,,,,,,,,No
+Slack,19570130570-tfuuvh6hutjd09bq64is5sao643q67jg.apps.googleusercontent.com,Web Application,"Drive, Calendar, Admin",539,,https://gsuite.google.com/u/2/marketplace/app/app/19570130570,"594,915",3,43,Slack is where work happens,"Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get work done. 
+ 
+It’s team communication for the 21st century
+
+• Channels help organize team communication. You can make a channel for a project, a topic, a team, or anything – everyone has a transparent view of all that’s going on. For sensitive information, create private channel and invite select team members in.
+• Direct Messages enable you to send messages directly to another person or to a small group of people for more focused conversations. 
+• Calls take a conversation from typing to face-to-face by starting a Slack voice or video call in any channel or direct message.
+ 
+You can drag, drop and share your files
+
+• All of your files, images, PDFs, documents and spreadsheets can be dropped into Slack and shared with anyone you want. You can add comments, star for later reference and it’s all completely searchable. 
+• The Google Drive integration makes sharing and collaborating on files even simpler. With it, you can create Google Docs from within Slack and import any type of file from G Drive without leaving your conversations in Slack. 
+ 
+It connects all your tools in one place
+
+• Set up integrations with the other tools you use so that you get all your notifications directly within Slack – from support requests, code check-ins and error logs to sales leads – all of them searchable in one central archive. Slack connects with over 1000 tools. 
+ 
+You can search your entire archive
+
+• Everything in Slack – messages, notifications, files, and all – is automatically indexed and archived so that you can have it at your fingertips whenever you want.",Slack,Yes
+Measure Map,196280979389-c4db1oeianifikkms5eq5n4gggf96jcq.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Virtru,197076597243-pmtqlhc964j3do8sd0s5c7rq160e4smt.apps.googleusercontent.com,Web Application,Others,3,Meta,https://gsuite.google.com/u/2/marketplace/app/app/197076597243,"5,275,310",4,24,Easily Protect Data in G Suite and Maintain Control Wherever It’s Shared,"Surprisingly easy protection and control for Gmail and Google Drive.
+Easily protect Gmail messages and attachments and files stored in Drive, and maintain control wherever they’re shared.
+
+At Virtru, we understand that data is an organization’s most valuable asset and sharing it is critical for business success. But sharing data creates significant risk. We believe no one should have to choose between protecting data and sharing it. We help more than 5,000 organizations, large and small, across almost every industry, protect data wherever it’s created or shared so they can collaborate with confidence.
+
+Privacy
+Ensure Gmail messages and attachments and file stored in Google Drive stay private so you don’t have to trust Google with your data.
+
+Compliance 
+Maintain compliance with data privacy regulations such as HIPAA, GDPR, PCI, and CCPA.
+
+Secure, Seamless Sharing
+Protect messages and files and maintain control wherever they’re shared - both internally and externally, beyond Google.
+
+End-to-End Encryption
+Object-level, client-side encryption, seamlessly integrated into Gmail and Google Drive with a simple Chrome extension.
+
+Persistent Access Controls
+Access revocation, expiration, disable forwarding, and attachment watermarking give you persistent control, wherever your Gmail messages and Drive files are shared.
+
+Persistent File Protection
+Keep attachments protected and controlled anywhere files are shared and stored (i.e. Gmail, Google Drive, desktops, network drives, and more) to ensure compliance with data privacy regulations and privacy throughout the full collaboration lifecycle.
+
+Contact us to learn more or try Virtru at your organization: https://www.virtru.com/contact-us/#contact-us
+
+The Virtru G Suite Marketplace app is for paying customers only. By using this service, you acknowledge that your organization is a paying Virtru customer. For terms of service, please visit https://www.virtru.com/terms-of-service/. If you are interested in using Virtru at your organization and do not have an account, please contact sales at https://www.virtru.com/contact-us/.",Virtru Corporation,No
+EFAAS Web Console,198572333586-0t0utk4m4nboo9a810hgcab197duhpag.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+CloudConvert,199590644126.apps.googleusercontent.com,Web Application,Drive,6,,,,,,,,,Yes
+Vault,203084464697-ggspb70qp5g3rk5eelu5lik9efbmnguk.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Project,207470277262-4fnq52u99b3l8u4vfd6loi9dugiupu7v.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Atlassian Statuspage,211568154679-o6t26q3qrf48ct3vs9bjg48l250nstmg.apps.googleusercontent.com,Web Application,Others,12,Meta,,,,,,,,No
+Simpler Dialer,213604929474-8h736kcrgbe3bt5kv7ehoquva4ilhblp.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Medium,216296035834-4u4cg2hehbal9lkokg9pvgnupegplmke.apps.googleusercontent.com,Android,Others,2,Meta,,,,,,,,No
+Medium,216296035834-k1k6qe060s2tp2a2jam4ljdcms00sttg.apps.googleusercontent.com,Web Application,Others,41,Meta,,,,,,,,No
+ETTelecom,217469183284.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Mailtrack,224054973946.apps.googleusercontent.com,Web Application,Gmail,2,,,,,,,,,Yes
+Fareportal DMS,225858352230-ns77skrj4858jjh1ekrb5u6ijv2u8igl.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Recorded Macros (Payment tracker_ 2019_11th Sept),228200728797-gb1gnjq5l0l5sejpj5f4nsgcc1fdkcgi.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Management Network Multiselect,231377235755-qpgfdnq7rdqp4t5rumt6olgqt7t4oc52.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Untitled project,237307626203-7e8m6d5i7o16l08gcan2ftm6b2i5se2m.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Zillow,238648973530.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+PnL,238796016935-60sejj1dq3mav1cg1064003hl8gceivs.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Recorded Macros (Untitled spreadsheet),240888543142-svm7397idfrcl15ipo3e48bjqafpfham.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Mass Delete,241684929821-29fh92ta57t2h98s0ab4bv897d85d3as.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Document Viewer for Google Drive,242212781037-9i0991icd67v5c42k4mtcalpqtnnpi22.apps.googleusercontent.com,Web Application,Drive,1,,https://gsuite.google.com/u/2/marketplace/app/app/242212781037,75,2,258,"This viewer lets you view document files (doc, xls, ppt, pdf, ai, psd, dxf, ps, zip, rar...) online without leaving your browser.","This viewer lets you view document files online without leaving your browser using Google Docs Viewer, Box.com Document Viewer.
+It is a fast and light weight app that reads multiple documents.
+Provides connect with Google Drive. You can open document files from Google Drive or from URL.
+Choose your preferred viewer. If the viewer supports the document, Open the document primarily through the viewer you select.
+
+*Supported formats (Google Docs Viewer):
+doc, docx, xls, xlsx, ppt, pptx, pdf, pages, ai, tif, tiff, svg, eps, ps, xps
+
+Google Drive Support: jpeg, png, gif, tiff, bmp, webm, mp4, mkv, m4v, mp3, ogv, wmv, flv, txt, css, html, psd, dxf, ttf, zip, rar...
+
+*Supported formats (Box.com Document Viewer):
+pdf, doc, docx, ppt, pptx, xls, xlsx, txt, py, js, xml, html, css, md, pl, c, m, json",documentviewer.herokuapp.com,Yes
+Screencastify,242262968495-1m5o9ef10hp44to5jtko0g1r02fsf2jp.apps.googleusercontent.com,Web Application,Drive,1,,https://gsuite.google.com/u/2/marketplace/app/app/242262968495,"3,949,188",2,66,Browser-based video editor with the simplicity you expect from Screencastify. Integrates with Screencastify Screen recorder and Google Drive.,"Introducing the Screencastify Video Editor - the easiest and fastest way to edit videos directly in your browser. Brought to you by the folks at Screencastify - creators of the #1 screen recording extension for Chrome.
+
+✂️ SLICE AND DICE
+• Combine as many clips as you like
+• Cut, trim and crop videos
+• Easily drag clips into any order
+• Use any video size or frame rate
+
+🎬 EDIT ANYTHING
+• Add videos from Google Drive
+• Add videos from your computer
+ 
+💾 SAVE IN A SEC
+• Save directly to your Drive
+• Download an MP4
+
+🌟 3 DAY FREE TRIAL
+• Unlimited use (videos up to 10 mins)
+• Access to all features
+• No credit card required
+
+After your trial, the editor is only $24 per year and includes unlimited screen recording with our Chrome extension.",castify-ext-dev,Yes
+Screencastify,242262968495-o42n5tqeo08dsa75p3j4dk1k61t05ln3.apps.googleusercontent.com,Web Application,Drive,4,,https://gsuite.google.com/u/2/marketplace/app/app/242262968495,"3,949,188",2,66,Browser-based video editor with the simplicity you expect from Screencastify. Integrates with Screencastify Screen recorder and Google Drive.,"Introducing the Screencastify Video Editor - the easiest and fastest way to edit videos directly in your browser. Brought to you by the folks at Screencastify - creators of the #1 screen recording extension for Chrome.
+
+✂️ SLICE AND DICE
+• Combine as many clips as you like
+• Cut, trim and crop videos
+• Easily drag clips into any order
+• Use any video size or frame rate
+
+🎬 EDIT ANYTHING
+• Add videos from Google Drive
+• Add videos from your computer
+ 
+💾 SAVE IN A SEC
+• Save directly to your Drive
+• Download an MP4
+
+🌟 3 DAY FREE TRIAL
+• Unlimited use (videos up to 10 mins)
+• Access to all features
+• No credit card required
+
+After your trial, the editor is only $24 per year and includes unlimited screen recording with our Chrome extension.",castify-ext-dev,Yes
+Noisli,244809216039-urbimntrhd89evqvfae6k68l23489ubd.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Event Locator,246944806535-7hhvlnkjh1q1umcag7rjvgp6qm6qpvpg.apps.googleusercontent.com,Web Application,"Calendar, Apps Script Runtime",3,Apps Script,,,,,,,,Yes
+Refractiv OverDRIVE,254158829526-1d1jb2of8ldpvs78e62vbp50kf05gqp4.apps.googleusercontent.com,Web Application,Others,1,Meta,https://gsuite.google.com/u/2/marketplace/app/app/254158829526,"315,955",4,43,Smarter Sites for G Suite. A site builder that turns Drive and G Suite content into web pages automatically.,"Smarter Sites for G Suite. A site builder that turns Drive and G Suite content into web pages automatically.
+
+OverDRIVE is designed for organisations using G Suite in business and education and is a simple way to share all kinds of information with people inside and outside your organisation.
+
+It integrates with Drive, so you just tell it which content to use and it creates the site structure, navigation and pages instantly. Your web page content is the same as your Drive content and they’re kept completely in sync. Change one and you change the other, automatically. You don’t need specialist skills and you can set up a site in minutes, saving yourself time, money and hassle. 
+
+Start your free fully featured 30-day trial today.
+
+Features
+* Google Drive integration
+* Mobile friendly
+* Workflow
+* Two way synchronisation
+* Great choice of page types and design options
+* Drag and drop page builder
+* Powerful filters and search
+* Strong security via Google Drive
+* Alternative logins: Facebook, Microsoft, email.
+
+Uses
+* Sites
+* Project workspace
+* Company Intranet 
+* Company extranet
+* Education portal
+* Digital library 
+* Virtual data room
+* Management meeting site
+* Event Site
+
+Everyday solutions:
+* Share Drive files and info with clients (outside your organisation)
+* Create public websites right from Drive
+* Support a network of partners or resellers
+* Share design resources like logos, pdfs and photos with customers
+* Give customers secure self-service access to financial reports
+* Share company info across the organisation and teams  
+
+OverDRIVE integrates with a large number of third-party apps:
+*Google Data Studio, Smartsheet, Slack, OneDrive, Zapier, Awesome Table, Google Analytics, YouTube, Twitter, Facebook and more..",Refractiv,No
+Wrike iOS app,260820609782-v91bs5v7dcigpp8roo18fdg2jsdsnrt3.apps.googleusercontent.com,iOS,Others,1,Meta,,,,,,,,No
+Auto Trader,262661727855-t8t9ca7vl2ml3ns0pjjjvbs0vro1pv6d.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+GoLinks,277405043093-a4b6snmjg3ud5l1heq695a7l5c0fd9vn.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Myprotein,282371554639-g5h5i4gs4jisdldtvcok56r2981vvfpv.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Trello,28300235456-b801aqbc1i8luet9arr7sgll09t6eep9.apps.googleusercontent.com,Web Application,Others,1,Meta,https://gsuite.google.com/u/2/marketplace/app/app/28300235456,"1,915,541",4,46,"Trusted by millions, Trello is a visual collaboration tool that gives teams a shared perspective on any project. Trello boards create a shared space for teams to organize, collaborate, and share information to accomplish their business goals in a flexible and fun way. Trello integrates with Drive, Sheets, Slides, Chrome, Calendar, GMail, Inbox, and Google Apps. Organize anything and everything to help keep your projects on track: Collaborate with teammates on Trello boards Create tasks and ideas on cards Organize cards into lists to create a workflow Drag and drop cards between lists to show progress Bring Trello on the go with the Android app Integrate G Suite with Trello to power up your team’s productivity: Attach and create Drive folders and files without leaving Trello In a single click, turn Trello boards into Slides presentations Visualize all of your tasks with due dates in Calendar Set reminders and streamline Trello notifications with Inbox Easily add and manage team members with Google Apps","Trusted by millions, Trello is a visual collaboration tool that gives teams a shared perspective on any project. Trello boards create a shared space for teams to organize, collaborate, and share information to accomplish their business goals in a flexible and fun way.
+
+Trello integrates with Drive, Sheets, Slides, Chrome, Calendar, GMail, Inbox, and Google Apps.
+
+Organize anything and everything to help keep your projects on track:
+    • Collaborate with teammates on Trello boards
+    • Create tasks and ideas on cards
+    • Organize cards into lists to create a workflow
+    • Drag and drop cards between lists to show progress
+    • Bring Trello on the go with the Android app
+
+Integrate G Suite with Trello to power up your team’s productivity:
+    • Attach and create Drive folders and files without leaving Trello
+    • In a single click, turn Trello boards into Slides presentations
+    • Visualize all of your tasks with due dates in Calendar
+    • Set reminders and streamline Trello notifications with Inbox
+    • Easily add and manage team members with Google Apps",trello.com,No
+PnL,283028863103-jgoa95nkumlq43t2c75biem7qprqu1dr.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Education.com,283427801117-gcsiu9p714dc31684r15mdoks9vupn6a.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+BankBazaar.com,292169499198-0lfk82r2deoft25lth746btka7g5gslr.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+Google APIs Explorer,292824132082.apps.googleusercontent.com,Web Application,Calendar,3,,,,,,,,,Yes
+WhatsApp Messenger,293955441834-jc0jr4nnng51vb1v0q8fea5af6i5sakt.apps.googleusercontent.com,Android,Drive,1,,,,,,,,,Yes
+FortiClient Android,296086252307-ehucg8ate48n051dvf1n23vrv3qr9368.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Recorded Macros (Crypto Checklist),296934901614-t37jdmdemhqb3dke5mt4mre2bdmlf5nl.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Etsy,296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Doordash,312397499938-le4n4vnj6gakctp89ifgev2a0vp8uut4.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Xodo,318378661449-56elpf0k7qsk4h9ecjf5613ho7igp0hl.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+GMAIL FILTERS,334948774295-n7fpsupehtv25ua3mda6fqdv125bbrj4.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,,,,,,,,,Yes
+Untitled project,338754620164-qsbfnhq9o6gabjt0h090v0qlifag17mh.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Test Script,346275398031-4jh49ic9fefudvb6ivdaf8is347rkr4v.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+TestEmails,348719052790-3bqu8k4pkg26ees53tdo7hb7mb74eg71.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Google Drive Chrome Extension,351861205747-jdceupirmv7o77ne1a3b4qh1klct94ck.apps.googleusercontent.com,Web Application,Drive,3,,,,,,,,,Yes
+Project Default Service Account,354862010105-bpcqmt1h1cn4imggmm22sqjitca64cld.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Basic Web App,355241220984-u7c2rq6kg0421n55i06hp3mpgd20kjig.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,,,,,,,,,Yes
+trivago,363634697571-lj09qn82grlkcma3sud1c11bo7srajd3.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Freshdesk,367378856688.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Best Buy App,369075948042-gku8boqssoqo5bdnkpg2s43mscgsk68i.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Google Data Studio,371237729773-o16eiche3liejj1onknknuhkj83k139b.apps.googleusercontent.com,Web Application,Drive,2,,,,,,,,,Yes
+MineTime,372037961349-7cfegksh5f1b18ps8orh1orivlu94t9f.apps.googleusercontent.com,Web Application,"Calendar, Contacts",1,,,,,,,,,Yes
+Moqups Drive API,372941403685-ea9uim0oiuk805ogakvcg62f3s7a4u9d.apps.googleusercontent.com,Web Application,Drive,1,,https://gsuite.google.com/u/2/marketplace/app/app/372941403685,"997,834",3,304,"The best HTML5 app for creating crisp mockups, wireframes and interactive prototypes.","Moqups is a streamlined web app that helps you create and collaborate on
+wireframes, mockups, diagrams and prototypes.
+
+* Crisp, ready-to-use Stencils for all popular use-cases
+* Built-in library with thousands of popular Icon Sets
+* Drag and drop to import Images from your desktop or apps
+* Extensive range of Fonts and styling options
+* Fast, intuitive, and precise Object Editing
+* Powerful, flexible, and scalable Page Management
+
+Go from diagrams, wireframes and prototypes without switching apps or updating across platforms.
+
+Premium plans start at $13/month, check them out here: https://moqups.com/pricing",Moqups,Yes
+Wrike,37355362364-dha13aajhc35i8rfudmsjaijnt9vd72u.apps.googleusercontent.com,Web Application,Others,6,Meta,https://gsuite.google.com/u/2/marketplace/app/app/37355362364,"4,890,525",4,132,Wrike: Project Management,"Millions of users trust Wrike to accomplish more.
+
+""Wrike takes complex projects and makes them simple for the people on your team.""
+-Andrew Hartman, Marketing Operations, Hootsuite
+
+CREATE
+Organize everything you need to complete your project in one spot.
+-   Break large projects into manageable pieces
+-   Use Gantt charts to view your schedule and dependencies  
+-   Real-time task editing for advanced collaboration
+
+COLLABORATE
+Increase productivity and execute faster across teams.
+-   @Mention your teammates to get things done
+-   Transform emails into tasks with one click
+-   Keep teamwork moving freely with our mobile apps
+
+REPORT
+The visibility you need to make informed decisions.
+-   Easy-to-use report builder to visualize your teams work
+-   Build reports of all your projects at a glance
+-   Live activity stream for real-time updates
+
+Wrike integrates with your Google Apps for fast, easy, efficient work management.
+
+Single Sign-On: Convenient and secure sign-on with your teams existing Google credentials.
+
+Google Drive: Attach any of your Google docs directly into Wrike for advanced collaboration.
+
+Gmail: Turn emails into easy-to-track tasks with our Gmail gadget.
+
+Google Calendar: Sync your project tasks and milestones for an up-to-date timetable.",Wrike,No
+Relive,376216316442-298fkv07hkrl0tb82bpnaavv43s7gtgf.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Kaggle,378513217926-6q3lp8ojftf1i14dlrj0udqh4ou2jjok.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Inspirock,381340841962-s26k81om9ch6i6rp5du52i23btbrr2ld.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Untitled project,381484173395-fuevt8jj08av19ijekp16rh76auk5sj9.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+klook-firebase,38241767456-tblln7me133j132hginhj8j6cphbq39c.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+weekly RK Email,383678107613-6hiahtipfcbp6m95u67tjfq4a265f2h7.apps.googleusercontent.com,Web Application,"Gmail, Drive, Apps Script Runtime",3,Apps Script,,,,,,,,Yes
+GeeksforGeeks,388036620207-3uolk1hv6ta7p3r9l6s3bobifh086qe1.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+GeeksforGeeks,388036620207-mu7cieefmijqq0lbpds5q1qcsnl0idng.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+TVF Play,391941770339-fhpebs4f2lvdjhdhtn7khntdtpmb1v6f.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+PnL,402190748067-ku2iq9f84j4c0ug4p4tdcg57h8d676ua.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+ProtectedDoc,402604260491-cpc038ekg7qobgf7jsbl1u8q02pmrh35.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Samsung account,40316552947-p4entmmkhrq6r4e8gia8cprg30j17gn8.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+AndroidApp,404579753391-o5j3mbb29894r2otvl7ine11seeb3c79.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Mozilla Thunderbird Email,406964657835-aq8lmia8j95dhl1a2bvharmfk3t1hgqj.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Arch Linux Chromium,413772536636.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+ACE,41617154500-5gufbg5oanepfn4d4veplp4n06vjokei.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Ubuntu,424119844901-tilod0e1nm0dt85e1evrdfp3cc3ec01d.apps.googleusercontent.com,Web Application,Others,6,Meta,,,,,,,,No
+Growth Engine,424794523095-s1tqvdqksb8t6b6ihengppv1nc585o4i.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Commudle,432745930633-vc668ls5qi0bf9lit9sp5fhnf18vka8l.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Multiple selections dropdown,438262947614-lcv0r5ta24tlemj3p4s9keehaisaakju.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Grammarly,440299537835-eg35dcqfh9v2qkagoqm0lo245vh4g7bu.apps.googleusercontent.com,Web Application,Others,32,Meta,,,,,,,,No
+Zomato,442739719837.apps.googleusercontent.com,Web Application,Others,10,Meta,,,,,,,,No
+Loom,443240113960-6mj529r3r24gpp4c9u57n9ndrg01i911.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Cal,444896084609-p1hh6omf3r57014hkf77v4ahoegdsnit.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+KAYAK,446009525344-j420p21u4ap0114qr1fnrk8bhq4f2il1.apps.googleusercontent.com,Web Application,Others,8,Meta,,,,,,,,No
+Gmail Tools,446138189510-c930go767afh9uuopdggblspi74ce642.apps.googleusercontent.com,Web Application,"Gmail, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Evernote,447407681759.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+iOS,450232826690-0rm6bs9d2fps9tifvk2oodh3tasd7vl7.apps.googleusercontent.com,iOS,"Gmail, Calendar, Contacts",45,,,,,,,,,Yes
+Checker Plus for Gmail™,450788627700-m1vhpe3biqmp4vgaachs2us80updp12j.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Calendar Tagger,451971641850-jfan2geruqcnoda7cuhomb9fifh3oi80.apps.googleusercontent.com,Web Application,"Calendar, Apps Script Runtime",2,Apps Script,,,,,,,,Yes
+cleanup,458696267388-11lsuquitpshkejuth6rbh9nkao5dnnk.apps.googleusercontent.com,Web Application,"Gmail, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Event Location Shader,460878889578-daoi59busropriaeanpve2njhgjkgl2b.apps.googleusercontent.com,Web Application,"Calendar, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Smartsheet,46145466229.apps.googleusercontent.com,Web Application,Drive,15,,,,,,,,,Yes
+Calendar Update Script File,462659381699-hhmgagk3hurp7eslvvgq739caconrfe6.apps.googleusercontent.com,Web Application,Drive,2,,,,,,,,,Yes
+Amazon Alexa,463698813043-o2michok88mj0nq3k8g5ftbf060s1ntp.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+Gmail-Delete,464673051398-jqvrmfl0vllh2bd4n0t9pbmsr01lhige.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Insync,468017360789-e4camv9a5n4e90tk4vrpk49qonmcm95s.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Rocketbook,468264241591-m6ai68oq6iujdg1bcq099frs24iehmdc.apps.googleusercontent.com,iOS,Others,1,Meta,,,,,,,,No
+Overleaf,47304055603.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+NFS_Quota_Alerts,478244139075-78kolhmgrp2upto3a0mjds0fil5jsrc8.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,,,,,,,,,Yes
+forward procurement,479807767169-ussoovksv3d7garvfm054e38nshqnfb2.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Real Estate & Homes by Trulia,487011081137-peeju6k4k30q731m6oo3k0kas0mqa5a3.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+RSVPify,490847583508-rnuc9n4mus9to62b40aq3e8nfpsfoko0.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Scribd,491264573595-hs5hu9ijbfl9g6khnkn2retrfr6lcua7.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Egress Secure Email for GSuite,503322020588-l1brpk0tjepc6lsemevlnknnlppr373m.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Deliveroo,503757482204-dmiski9tsv4kih4q39bt32lgvdn6e8su.apps.googleusercontent.com,Web Application,Others,51,Meta,,,,,,,,No
+GSheet_Suspended_Usr_list,504186272165-61h94rsotrnq3bdr1j65j1kkfmddb9tg.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+CRES - Cisco Registered Envelope Service,507313714964-6p88u6grrfv4int8pvujgaimias5ug62.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+Project Default Service Account,507860335923-58om9b9ls82vrr7s4d2hdil7kiu5ihl6.apps.googleusercontent.com,Android,Others,2,Meta,,,,,,,,No
+Disqus.com,508198334196-bgmagrg0a2rub674g0shidj8fnd50dji.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+eBay,510718330363-s8203tpcr3unvq2n580hoke0590m6rd8.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Gmail_Autofilters_Tower_v1.3,514081279983-rf5t3709d688uppg0uo4odhitu2s7ur1.apps.googleusercontent.com,Web Application,"Gmail, Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Grasshopper,531246522847-cpii92d27guqb6mrvgtc8skipar03g1f.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Google Drive plug-in,531326910636-6ssag1lt3u6jgusferpp5fasa0fn118r.apps.googleusercontent.com,Web Application,Drive,13,,,,,,,,,Yes
+Slack,533288507123-c7lce59bel4e7c6mt1gcb20a9cfh8snv.apps.googleusercontent.com,Web Application,"Gmail, Apps Script Runtime",29,Apps Script,https://gsuite.google.com/u/2/marketplace/app/app/533288507123,"1,284,893",4,440,Send emails into Slack to discuss them with your teammates.,"The Slack Add-On for Gmail helps you move conversations along by bringing context from an email into a Slack channel or direct message. You can add a message and include attachments along with the email as well.
+
+When to send email into Slack:
+ - Email chain getting too noisy? Send it into Slack where you can discuss quickly and move forward.
+ - Have an idea you want to share with your team? Send it along to a relevant channel with a note about your insights.
+ - Need to coordinate a response to a customer question? Flag your teammates in Slack and use the email content to set context.
+
+How the Add-On works:
+ - Start by installing the Slack for Gmail Add-On.
+ - Open any email and click on the Slack icon in the right-hand side of your inbox.
+ - Choose the channel or person you’d like to forward the email to inside of Slack.
+ - Add a message and include attachments if you’d like.
+ - Voilà! The email is forwarded into Slack where anyone in the channel or direct message you shared it to can see the email content and open attachments.
+
+About Slack:
+Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips. With Slack, your team is better connected.","Slack Technologies, Inc.",Yes
+Slack,533288507123-mq1s4kd1ifi8ulnmni5ud1bp1u1ps393.apps.googleusercontent.com,Web Application,"Gmail, Apps Script Runtime",7,Apps Script,https://gsuite.google.com/u/2/marketplace/app/app/533288507123,"1,284,893",4,440,Send emails into Slack to discuss them with your teammates.,"The Slack Add-On for Gmail helps you move conversations along by bringing context from an email into a Slack channel or direct message. You can add a message and include attachments along with the email as well.
+
+When to send email into Slack:
+ - Email chain getting too noisy? Send it into Slack where you can discuss quickly and move forward.
+ - Have an idea you want to share with your team? Send it along to a relevant channel with a note about your insights.
+ - Need to coordinate a response to a customer question? Flag your teammates in Slack and use the email content to set context.
+
+How the Add-On works:
+ - Start by installing the Slack for Gmail Add-On.
+ - Open any email and click on the Slack icon in the right-hand side of your inbox.
+ - Choose the channel or person you’d like to forward the email to inside of Slack.
+ - Add a message and include attachments if you’d like.
+ - Voilà! The email is forwarded into Slack where anyone in the channel or direct message you shared it to can see the email content and open attachments.
+
+About Slack:
+Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips. With Slack, your team is better connected.","Slack Technologies, Inc.",Yes
+feedly,534890559860-r6gn7e3agcpiriehe63dkeus0tpl5i4i.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+HackerRank,539603982008.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Untitled project,539905950674-td0coc759ndqpm2ms1ekvb7khap81jm1.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Strava Mobile,541588808765.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+PnL,543156829913-bhno4n2rmdcvsp8l9q92rh73li66b7lf.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Any.do,543675644531-g4dslkg8olbmn1jopsoai5a7qcrlt33t.apps.googleusercontent.com,Android,Others,1,Meta,https://gsuite.google.com/u/2/marketplace/app/app/543675644531,"230,359",3,65,"Over 10 Million people use Any.do to organize all the things they want to do. Any.do makes it easy to remember all your personal and work tasks, anywhere you go.","Over 15 Million people around the world use Any.do to stay organized & get things done.
+ 
+✔  Seamlessly syncs across all your devices
+✔  Easily share lists & tasks to get more done
+✔  Drag & drop tasks to plan your agenda
+✔  Attach notes, files or add sub-tasks 
+✔  Search lists, tasks, notes & sub-tasks
+✔  Add one time or recurring reminders
+
+
+Try out Any.DO for free and see what everybody is talking about. 
+
+Any.DO for Android - https://play.google.com/store/apps/details?id=com.anydo
+
+★ Top 10 android apps (NY Times) 
+★ Must have Android app (PC Magazine) 
+★ Best Android app (TechCrunch) 
+★ Top 10 android apps (The Verge)  
+
+Any.DO for iPhone - http://itunes.apple.com/us/app/any.do/id497328576
+
+★ Best iPhone apps (Appstore) 
+★ Top app by TechCrunch
+★ Must have app by PC MAG
+
+Any.do for Web http://web.any.do
+★ Top 50 websites 2014 (Time)",Any.do,No
+Any.do,543675644531-nsdamnj2uqafj8d3hv9q9lmevvc9tcrm.apps.googleusercontent.com,Web Application,Others,1,Meta,https://gsuite.google.com/u/2/marketplace/app/app/543675644531,"230,359",3,65,"Over 10 Million people use Any.do to organize all the things they want to do. Any.do makes it easy to remember all your personal and work tasks, anywhere you go.","Over 15 Million people around the world use Any.do to stay organized & get things done.
+ 
+✔  Seamlessly syncs across all your devices
+✔  Easily share lists & tasks to get more done
+✔  Drag & drop tasks to plan your agenda
+✔  Attach notes, files or add sub-tasks 
+✔  Search lists, tasks, notes & sub-tasks
+✔  Add one time or recurring reminders
+
+
+Try out Any.DO for free and see what everybody is talking about. 
+
+Any.DO for Android - https://play.google.com/store/apps/details?id=com.anydo
+
+★ Top 10 android apps (NY Times) 
+★ Must have Android app (PC Magazine) 
+★ Best Android app (TechCrunch) 
+★ Top 10 android apps (The Verge)  
+
+Any.DO for iPhone - http://itunes.apple.com/us/app/any.do/id497328576
+
+★ Best iPhone apps (Appstore) 
+★ Top app by TechCrunch
+★ Must have app by PC MAG
+
+Any.do for Web http://web.any.do
+★ Top 50 websites 2014 (Time)",Any.do,No
+Music Player for Google Drive,543871781652.apps.googleusercontent.com,Web Application,Drive,2,,,,,,,,,Yes
+Recorded Macros (McKay Invoice Tracker),54632898903-9m0j09u30es98gnil59fsp1ed38om367.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+sortSheets,550012858186-928b3f2nv6rq9c068o2u4sg0ipbcdge1.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Lattice,554378352164-as0b0ojctfu8ashklgqt0rkufdaprc77.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+Quota_Alert_sandbox,55765363332-rdth9c7m791cgqntkmeo41eirm86hn3k.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,,,,,,,,,Yes
+Tableau Server,559142988460-pq4ajno1o46uj4cdised6628dp2ge8mj.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+MakeMyTrip,568430513605-ngh8qioe5qtsbg8oq4ijv2th5u4ls1i9.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+Every Time Zone,569109512356-9db0d4vk6181p5nlb11grufvd1lgkhtp.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Shopperstop,570506897857-aj7ifd4ne3j2gv2fis1369fu31urasld.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+app script for update of repo data-staging,572897049537-t2bckp40vt2j1km2a36mfrb805iigprd.apps.googleusercontent.com,Web Application,"Drive, Cloud Platform",1,,,,,,,,,Yes
+Fouth Space,58065743244-8259ajh1462ljd9i4ggd37ccpjt9833f.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Datumprikker/Cally,587962392269-dd3ltkc596m53turfal5natbtb2btvvs.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Datadog,589883252099-2o0ltl0bf77sk9v1m5bq1202s1qod436.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+NewSupplierQuestionnaire,590091994962-4740klm52f391cbddurp4u2m9qpkbrfb.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+MensXP,590283389371-9vcblibjo040s56qbeisb9ep6tprc9am.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+GrubHub,591422464906-bslmpkd4vo42lnb8q5r85hktkqo73qpm.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+GrubHub,591422464906-hepqlnnivc1ei5b9e20trvkjm89l7kth.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Text Editor,591525900269-94ok9krafau8qa24666btvccmsfnq5fp.apps.googleusercontent.com,Web Application,Drive,2,,https://gsuite.google.com/u/2/marketplace/app/app/591525900269,"6,200",3,1441,Edit text files in Google Drive,"Text Editor is a free app that allows you to create, open, and edit text files on your computer and Google Drive.
+
+All standard text editor features are supported, including syntax highlighting, font size, word wrap, tabs and spaces, printing, undo/redo, keyboard shortcuts, and more.
+
+Standard image editor features are supported including crop, rotate, resize, conversion, and color filters.
+
+How to use Text & Photo Editor
+First, select a text file or photo from your computer, Google Drive, or GMail attachment.
+The file will be displayed in your browser where you can then make any changes or edits.
+After edits are made, press the ""Save to Drive"" button to save the edited file back to Google Drive.
+Download a copy of the file to your computer or device using the ""Download"" button.
+
+About Text & Photo Editor
+This app will open a text file or photo of your choice, letting you make changes and save back them to Google Drive or your computer.
+Text & Photo Editor can open all text files types including TXT, CSV, HTML, XML, and CSS as well as code files such as C++, Java, Python, and JSON.
+Text & Photo Editor can open all image formats including JPEG, PNG, GIF, and TIF.
+Keyboard shortcuts are supported; press the ""Keyboard"" icon in the toolbar to display a list of all keyboard shortcuts.",Text Editor for Google Drive,Yes
+Greenhouse,594601915089-89kab5mheoec6sodc66fjeho69ich9ia.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+Greenhouse,594601915089-8g1c4uonl5d52ndmktp84mcrg3255ajp.apps.googleusercontent.com,iOS,Others,4,Meta,,,,,,,,No
+Greenhouse,594601915089-rrls6ibr90n1ehrtvkfcoldipllj1r5d.apps.googleusercontent.com,Web Application,"Calendar, Admin",20,,,,,,,,,Yes
+Atlassian,596149463257-9oquqfivs9on8t8erq23c8qso6vk3cp1.apps.googleusercontent.com,Web Application,Others,35,Meta,,,,,,,,No
+Redfin Real Estate,597760556696.apps.googleusercontent.com,Web Application,Others,6,Meta,,,,,,,,No
+Vimeo,599168806697-1vailf0v6ai0j09va1hga0krnd0n3tlq.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+ChowNow Direct Web,599395368702-bhl57lgr8t0qqso4l95idl53miipt7q7.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Todoist,600979030768-7o35cjq1gv138e22oj0j39u0bp0mn3hj.apps.googleusercontent.com,Web Application,Others,5,Meta,,,,,,,,No
+Investing.com App,606447380154-9825jtap5as2sm0f868m536j6v8ptgo7.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+Kamernet,608538625387-jj841pippu8b3gf97o8l99or2bdho8au.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+DowJones,61387583289.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+PDF Viewer,619241882594-1n9npcsqr6rklv5vnnivh9ne7cv7qh01.apps.googleusercontent.com,Web Application,Drive,2,,https://gsuite.google.com/u/2/marketplace/app/app/619241882594,"2,269",2,580,"PDF Viewer, Reader allows you to view PDF, DOC, XLS, PPT files directly in your browser without uploading the file to any servers.","PDF Viewer, Reader is a free tool that allows you to view PDF, DOC, XLS, PPT files directly in your web browser.
+You don't need to install any further software to view files.
+PDF Viewer reads files without uploading the file to any servers. It does not save or share the file you select.
+It only works locally without going through the server.
+
+Supports convert DOC, DOCX, XLS, XLSX, PPT, PPTX file to PDF format using Google Drive & Apps Script.
+View, Print, and You can be downloaded as PDF.
+
+You can choose a PDF file to view from your computer or from Google Drive.
+Based on HTML5 technology and Mozilla PDF Reader library.
+
+*Supported Formats (Google Drive's files, Convert to PDF without uploading to any servers, Google Apps Script):
+Documents (pdf, jpg, jpeg, png, gif, doc, docx, rtf, html, htm, txt, text, odt)
+Presentation (ppt, pptx, odp)
+Spreadsheet (xls, xlsx, ods, csv, tsv)
+The converted temporary files are automatically deleted randomly after a day in your trash folder.
+
+*Supported Formats (Local Computer, Dropbox, OneDrive, Box): PDF",pdfviewer.softgateon.net,Yes
+Airbnb,622686756548-j87bjniqthcq1e4hbf1msh3fikqn892p.apps.googleusercontent.com,Web Application,Others,6,Meta,,,,,,,,No
+Rack Design,625453255494-0vj9qqh1239f59e8ltir844ke8k0lp3t.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+PnL,625591649461-268l36emku9tpormolnoovecgr2nbt9e.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Postman,631492687692-ku7pug4olrljvifv0vs66uks9pmeo8ps.apps.googleusercontent.com,Web Application,Others,5,Meta,,,,,,,,No
+Lattice,63617938519-i2rj5iracgadq9l5tvj9vnu7cr44jkss.apps.googleusercontent.com,Web Application,Others,37,Meta,,,,,,,,No
+Google Earth,639005513830.apps.googleusercontent.com,Web Application,Others,6,Meta,,,,,,,,No
+Catawiki,642736432738-n5i0e4l9svftjaii4riibq2s1m8gsc5k.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+checkbox test,642925644295-0vvgo37sdg2ns5if1hnuf97nc2a1m2qe.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Netdata Cloud,644375105584-al7qjeblthc64l1drivpp0ki7jpreiq9.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Provider for Google Calendar,647770275422-1t765fugnn0i7sekv0ce6vitaq19qeck.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+Provider for Google Calendar,647770275422-f30mivm6f2nli7qu4mpt20a3lc83t1vv.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+SligeGeeks PPT,648884532819-bsrhecjrigfkh1o7giaojv91en8g6mes.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Google Nest Hub,651814152010-i8gtejcoos9uknr1bifuhfi6h4f6hnhi.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+CodinGame,657009003548.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Adobe Spark,659897251118-ee2goq8mbgnc25dqgotto40rd79745hc.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+deleteoldmail,667547752213-7nmqqjvia5go9gajnmhv3hcqmtacagal.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+draw.io,671128082532-jhphbq6d0e1gnsus9mn7vf8a6fjn10mp.apps.googleusercontent.com,Web Application,Drive,53,,https://gsuite.google.com/u/2/marketplace/app/app/671128082532,"10,000,000+",4,83,diagrams.net is the most tightly Google Drive integrated diagramming application available.,"draw.io is completely free online diagram editor built around Google Drive(TM), that enables you to create flowcharts, UML, entity relation, network diagrams, mockups and more.
+
+Your data is stored only in Google Drive, so no additional third-party to trust with your data.
+
+draw.io can import from .vsdx, Gliffy(TM) and Lucidchart(TM) files.",draw.io,Yes
+draw.io,671128082532.apps.googleusercontent.com,Web Application,Drive,14,,,,,,,,,Yes
+whereby.com,673592855141-rkus14iedkbnnfo82dldntmq6gmhb0dh.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Confluence,677591547886-76tq88afkrac6omu7bfo40fal3c54utr.apps.googleusercontent.com,Android,Others,3,Meta,,,,,,,,No
+Confluence,677591547886-o9hjnr3fm3hff5qivfr84fuqk1vhs70m.apps.googleusercontent.com,iOS,Others,1,Meta,,,,,,,,No
+Fairygodboss,683298296265-8dfcatd4ag89esso1jep5hm5mae4m2k2.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+sand_box,685582377124-mt11ccmmmbtndhahl78t1al6895ojiku.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,,,,,,,,,Yes
+Pinterest,694505692171-31closf3bcmlt59aeulg2j81ej68j6hk.apps.googleusercontent.com,Web Application,Others,10,Meta,,,,,,,,No
+Udemy,700206021005-bfren0qj1or8pp5spnn521hos9lm9ll9.apps.googleusercontent.com,Web Application,Others,7,Meta,,,,,,,,No
+Udemy,700206021005-bti21sr5qv2rp32hv5mf3htjn7lv4e1b.apps.googleusercontent.com,Android,Others,2,Meta,,,,,,,,No
+Lucidpress,701689253383.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Honey,705229005811-2fdpup66d8aefq4qs2ru1n8qiosuq4fb.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Recorded Macros (North Moore OCR 2019 Quantitative Trader),705537124549-vcicc1o50rmcnstct6nqksibojrqbmkn.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+LumApps,707106531947-5b60tirb7tb1pabet4r3onmhaaij0jdo.apps.googleusercontent.com,Web Application,Others,2,Meta,https://gsuite.google.com/u/2/marketplace/app/app/707106531947,"3,999,160",4,53,LumApps - The Intranet recommended for Google’s G Suite,"LumApps (formerly LumSites) is a social, mobile and smart intranet to connect and engage all employees. 
+- LumApps leverages all your internal communications in a central hub: corporate news, business applications including G Suite and social collaboration,
+- LumApps tears down silos with social features and well-organized workspaces,
+- LumApps enforces your corporate culture in a personalized portal and assists people by providing profiled information at the right time.
+
+Based on strong customer reviews all over the world with Fortune 500 and Forbes 2000 companies, LumApps is the enterprise portal mixing intranet and social network, fully integrated and complementary to Google’s G Suite.
+
+Core features:
+- Design and style customization (the portal fits the visual identity of the company)
+- Structured information (the portal is organized at a corporate level) and profiled content
+- 360° internal communications (top-down, bottom-up, transversal, targeted, one to one...)
+- Collaboration suite (Gmail, Drive, Calendar) and IS integration (dashboards of business apps)
+- A SaaS solution based on Google Cloud Platform",www.lumapps.com,No
+Lucidchart,7081045131-2b3qqfftbthvs1p2tgt5t12spiahvo02.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,https://gsuite.google.com/u/2/marketplace/app/app/7081045131,"10,000,000+",3,11786,"Lucidchart provides collaborative online diagramming to make it easy to draw flowcharts, org charts, wireframes, UML, mind maps and more. Work together in real time with your team and clients!","Lucidchart is the #1 visual productivity platform for teams. Collaborate in real time to create flowcharts, ERDs, BPMN diagrams, wireframes, mockups, network diagrams, org charts, and more. Try industry-leading features such as data linking, diagram automation, and links and layers for interactive diagrams. Start your free trial today!
+
+Lucidchart offers enterprise-grade security through AWS, SSO, and SAML integrations and domain lockdown to ensure your data remains safe and secure. Over 13 million users—including Google, DocuSign, Delta, Visa, Toyota, and Procter & Gamble—choose Lucidchart to quickly create professional, interactive diagrams documenting any process or idea. Connect Lucidchart to Google Drive, Docs, Sheets, Slides, and other industry-leading applications.
+
+Still using Visio? Lucidchart’s Visio import and export options make the transition painless. Not only is Lucidchart easier to use—it’s more affordable. You can also import your files from draw.io, Gliffy, and Omnigraffle. 
+
+Global compatibility:
+- Integrates with G Suite, Google Drive, Microsoft Office, Salesforce, Slack, Confluence, Jira, Jive, and more
+- Imports AWS architecture for network diagram generation
+- Imports Visio, OmniGraffle, Gliffy, and draw.io files
+- Runs in all major browsers
+
+Shape libraries for every scenario:
+- Flowcharts and process maps
+- Mind maps and Venn diagrams
+- Mockups and wireframes
+- UML, ER, and network diagrams
+- Org charts and BPMN diagrams
+Perfect for teams:
+- Real-time collaboration
+- In-editor group chat and commenting with @mentions
+- Powerful version control and revision history
+
+Enterprise-ready:
+- SSO and SAML authentication
+- Automated account provisioning
+- Account consolidation and secure domain lockdown
+- Dedicated account support group
+
+Easy to share and publish:
+- Export to PDF, PNG, JPG, and Microsoft Visio
+- Embed diagrams in blogs, wikis, or websites
+- Publish to a unique URL
+- Post directly to social media
+- Create a presentation ",Lucid Software,Yes
+Lucidchart,7081045131-da65f0du30iokn147fte32ev1f7k4ncb.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,https://gsuite.google.com/u/2/marketplace/app/app/7081045131,"10,000,000+",3,11786,"Lucidchart provides collaborative online diagramming to make it easy to draw flowcharts, org charts, wireframes, UML, mind maps and more. Work together in real time with your team and clients!","Lucidchart is the #1 visual productivity platform for teams. Collaborate in real time to create flowcharts, ERDs, BPMN diagrams, wireframes, mockups, network diagrams, org charts, and more. Try industry-leading features such as data linking, diagram automation, and links and layers for interactive diagrams. Start your free trial today!
+
+Lucidchart offers enterprise-grade security through AWS, SSO, and SAML integrations and domain lockdown to ensure your data remains safe and secure. Over 13 million users—including Google, DocuSign, Delta, Visa, Toyota, and Procter & Gamble—choose Lucidchart to quickly create professional, interactive diagrams documenting any process or idea. Connect Lucidchart to Google Drive, Docs, Sheets, Slides, and other industry-leading applications.
+
+Still using Visio? Lucidchart’s Visio import and export options make the transition painless. Not only is Lucidchart easier to use—it’s more affordable. You can also import your files from draw.io, Gliffy, and Omnigraffle. 
+
+Global compatibility:
+- Integrates with G Suite, Google Drive, Microsoft Office, Salesforce, Slack, Confluence, Jira, Jive, and more
+- Imports AWS architecture for network diagram generation
+- Imports Visio, OmniGraffle, Gliffy, and draw.io files
+- Runs in all major browsers
+
+Shape libraries for every scenario:
+- Flowcharts and process maps
+- Mind maps and Venn diagrams
+- Mockups and wireframes
+- UML, ER, and network diagrams
+- Org charts and BPMN diagrams
+Perfect for teams:
+- Real-time collaboration
+- In-editor group chat and commenting with @mentions
+- Powerful version control and revision history
+
+Enterprise-ready:
+- SSO and SAML authentication
+- Automated account provisioning
+- Account consolidation and secure domain lockdown
+- Dedicated account support group
+
+Easy to share and publish:
+- Export to PDF, PNG, JPG, and Microsoft Visio
+- Embed diagrams in blogs, wikis, or websites
+- Publish to a unique URL
+- Post directly to social media
+- Create a presentation ",Lucid Software,Yes
+Lucidchart,7081045131.apps.googleusercontent.com,Web Application,Drive,17,,,,,,,,,Yes
+Sandbox_test,708921750732-h1oftmhbc2cpgeu60ib416e18juplgg3.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+ChowNow Online Ordering,712158363893-nvrb82td9utupq0lv5ineo2ma2gjad8o.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+Premier League User Portal,713263538084-mq4c5k91ums3t46v22ik382rc5qd7pmp.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+ProtectedSheet,715423965235-as7kitp4jf3ih2efft5v4gifqa0ca3b1.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",1,Apps Script,,,,,,,,Yes
+Stack Exchange,717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com,Web Application,Others,5,Meta,,,,,,,,No
+GQueues,719341039557.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+"KML, KMZ Viewer with Drive",72003345431-7i36ggeldeacukqu7gkeiacb9f14kq3a.apps.googleusercontent.com,Web Application,Drive,1,,https://gsuite.google.com/u/2/marketplace/app/app/72003345431,101,3,324,"A tool that views the KML, KMZ (Zipped KML format) file on a map. You can open KML, KMZ files from URL or from Google Drive.","KML, KMZ Viewer is a tool that views the .kml, .kmz (Zipped KML format) file in your browser.
+
+Free online tool to view KML, KMZ files from the web on a Google map. You can open KML, KMZ files from URL, Google Drive or from your computer.
+
+Provides connect with Google Drive. You can directly open a KML file from Google Drive.
+
+*What is a KML?
+Keyhole Markup Language (KML) is an XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers. KML was developed for use with Google Earth, which was originally named Keyhole Earth Viewer.
+KML became an international standard of the Open Geospatial Consortium in 2008.",kmlviewer.nsspot.net,Yes
+app script for update of repo data-main sheet,720581673875-i3clf34n6033tj8bc0i7pe6emkf6s0af.apps.googleusercontent.com,Web Application,"Drive, Cloud Platform",1,,,,,,,,,Yes
+Kahoot!,72103009834-ccrvro0kt03tpd7vrsi0c7e3gqjmsl4a.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Recorded Macros (20180714 kwilson tower ALL contacts export_backup_google.csv),72202272666-fo1vacg0pgu3df5218t3m17nnqfms01n.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Canon Edge,723670711443-qq53ha339dpi4f6tgqibpjg6if27pt8j.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+PnL,726101624555-24if4gcl6vrgpgn04jb5il9hhflku0gu.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+SendEmail,727286738526-thq974l0j98nc0lubtug2h2luqtut5p2.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Hearst Digital Newspapers,748544550338-f1t9ffkqtulianv9bc16mc6t0be2bqb4.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+OneCompiler,748546363-11lp66se7cl6samfubad3dlsjnau8t11.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Zendesk,749019779237-4696326jponq05n0k8fiaupk1iac0vpd.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Checker Plus for Calendar™,74919836968-1vv8gkse5mjv8ppr8qnjdms2hd6ot4sv.apps.googleusercontent.com,Web Application,Calendar,8,,,,,,,,,Yes
+Checker Plus for Calendar™,74919836968-ube40emj4vdiujk6q2h12l0n5sgblkvu.apps.googleusercontent.com,Web Application,Calendar,5,,,,,,,,,Yes
+Logistics Management Form,751119854364-v31ceik98crl3d28beeafkq7ogpjhoo2.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Value Research Online,758275973528-vcejq4pg1g2faifd8itauph6i29kmodu.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Cloud Drive to Mail,761231460933-nu2omqjucheu41l9lofac462ur819lnt.apps.googleusercontent.com,Web Application,Drive,1,,https://gsuite.google.com/u/2/marketplace/app/app/761231460933,795,3,161,"This is a tool that allows you to send a mail with your Google Drive files using Gmail account. It's safe, fast and reliable.","This is a tool that allows you to send a mail with Google Drive files using your Gmail account.
+This app use a Google Apps Script hosting on Google clouds. It's fast and reliable. 
+You can send messages up to about 22~25 megabytes in size. It's attachment files, not share links.
+Provides connect with Google Drive. You can directly send a mail with your multiple drive files.",drivetomail.kwebpia.net,Yes
+Tableau Desktop,763254890493-615q6fdqt5vm8g90g21e10um3bhqc04s.apps.googleusercontent.com,Web Application,Drive,9,,,,,,,,,Yes
+PayPal OneTouch,76862753678-9l8i0gh7kv9mi12drrka4pj54ee2rj9v.apps.googleusercontent.com,Web Application,Others,6,Meta,,,,,,,,No
+Pipedream,769070457056-00o7mttlmhr0ag5mhavo92n9o3adnk6k.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+RetailMeNot,771936173007-u6au73kae344unr8d6fjjtendldufja4.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+SchoolWiser,77382003713-hkk0q8qhsolih7ltnmtq4a7s3erl0dda.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+The Guardian,774465807556.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Canva,779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+Myntra,787245060481-4padi0c9g2l1pnbie52fmpfdpo43209i.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Calendly,797340822162.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+InfoQ,805159196168.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Postman,805864674475-3abs2rivkn7kreou30b8ru8esnti4oih.apps.googleusercontent.com,Web Application,Others,15,Meta,,,,,,,,No
+Event Location Shader,806194956819-39m4vgpc3elt67a06ba9mbofooedoso3.apps.googleusercontent.com,Web Application,"Calendar, Apps Script Runtime",2,Apps Script,,,,,,,,Yes
+Talos,815340817346-7955sshqfb1oojup2td26f2jl1j0arvn.apps.googleusercontent.com,Web Application,Others,20,Meta,,,,,,,,No
+Talos,815340817346-essic1bhluda7arrn2oldj8jmkt1mt5u.apps.googleusercontent.com,Web Application,Drive,2,,,,,,,,,Yes
+Deliveroo,819538658905-ga2g9q9huoc538ghdl5lfs2449dqvv8j.apps.googleusercontent.com,iOS,Others,7,Meta,,,,,,,,No
+Deliveroo,819538658905-q9gjn9koebe7m461qddd757rjbnc56bb.apps.googleusercontent.com,Android,Others,10,Meta,,,,,,,,No
+MoM Venue Market Share,820575909717-r9fcg29ei57skfdavthlvgfhudig5bl3.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Recorded Macros (Credit Card__2019_14th Aug),821460893229-07sqb4ikblk2rdqlf3r3fuqr4t1fck9l.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+ZIP Extractor,824911851129-6d64j0e08s86ih74l0lu386tqqfv71t9.apps.googleusercontent.com,Web Application,Drive,14,,https://gsuite.google.com/u/2/marketplace/app/app/824911851129,"69,993",4,15559,"ZIP Extractor is a free app for opening ZIP, RAR, and 7z files on your computer and Google Drive. * ZIP Extractor supports opening password-protected files. * ZIP extractor can open ZIP, RAR, TAR, 7z (7-zip) GZIP (GZ), BZIP (BZ2), and TAR.GZ files","ZIP Extractor is a free app for opening ZIP, RAR, and 7z files on your computer and Google Drive. 
+
+* You can preview and download individual files inside the ZIP file without having to extract the whole ZIP.
+
+* ZIP Extractor supports opening password-protected files. 
+
+* ZIP extractor can open ZIP, RAR, TAR, 7z (7-Zip), GZIP (GZ), BZIP (BZ2), and TAR.GZ files
+
+
+How to use ZIP Extractor
+
+1. To begin, select a ZIP file to open from Gmail, Google Drive, or your computer.
+
+2. Once displayed, click on any individual file inside the ZIP to view or download it.
+
+3. Press the ""Extract"" button to extract the selected files to Google Drive.
+
+4. A new folder will be created in Google Drive for the unzipped files ending with ""(Unzipped Files)"".
+
+5. After extraction, click View Files to go to the unzipped files in Google Drive.
+
+
+How ZIP Extractor Works
+
+* ZIP Extractor is a pure JavaScript web app. All extraction and decompression is done on your computer, directly in your web browser, and not on any server.
+
+* ZIP Extractor can open password-protected ZIP files. The password is only used on your computer to open the ZIP file and is never sent over the network.
+
+* ZIP Extractor supports the RAR and 7-ZIP (7z) file formats, including password-protected RAR and *.7z files.
+
+* ZIP Extractor also supports TAR, GZIP, and BZIP files (*.tar, *.gz, and *.bz2 files).",ZIP Extractor,Yes
+CamScanner iOS,825008013023.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Adobe Scan,827597488311-llm5ajmlifs60vqtodrosu4kp9u6geno.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Editey,834369361793.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Quantum Experience,838223977469-5ahlnbe1ru09nda0c71rmfpgb03rp43t.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Duo Security Mobile App,848238537804-622a2du8i523h7u05h7itnfis695gafo.apps.googleusercontent.com,Android,Drive,1,,,,,,,,,Yes
+Untitled project,848259856229-7g4ec11kkv8herj34ncqlr46o27rhh1q.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Slickdeals,848950106722-j5992464ii4e8jng8d8n6dlbajb1q3s1.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Zoom,849883241272-ed6lnodi1grnoomiuknqkq2rbvd2udku.apps.googleusercontent.com,Web Application,Calendar,9,,,,,,,,,Yes
+Zoom,849883241272-q09d038e5fg93hei7c259g1s3e6mi6hn.apps.googleusercontent.com,Web Application,Calendar,1,,,,,,,,,Yes
+Seeking Alpha,853676697728-j4qpq4pfialt14ibl9ppa3tk37m6kc9e.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Simplemenu,854614097072-g3jea4gn290525vrt1bl1upnn27627tb.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Meetup,855636443875-pmqkjkrj33pvp0t1ghecgp4f3l746856.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+AutoForward,860491014564-5176gblvtevn8dtkcv8ptr43j7flmm53.apps.googleusercontent.com,Web Application,Gmail,1,,,,,,,,,Yes
+Windows,862726500644-mba83qqf9kq69c5mk9u5h2dn4iocdspq.apps.googleusercontent.com,Web Application,"Gmail, Calendar, Contacts",1,,,,,,,,,Yes
+Grafana Labs,866630123061-90gforkpe6r7lpljhdp246icb4h28rk3.apps.googleusercontent.com,Web Application,Others,5,Meta,,,,,,,,No
+Niantic Wayfarer,867328026096-e1p5hbmra2s0g2psgqhhl7ldafla8qr9.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Promevo Reseller Transfer Form,868690478765-cr02mch7nuf9fafrfvtctu8hk0udf8vq.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+SqlData,878305762221-ofctf83dda15o6gpe6j779vqs9c3d997.apps.googleusercontent.com,Web Application,Apps Script Runtime,1,Apps Script,,,,,,,,No
+iHeartRadio,884160514548-4917aophkpafpbgh8r1lndhc3f128ouf.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Seamless,890931348469-en8ht0kqub7imtqh09u18i2r4ivmbrp5.apps.googleusercontent.com,iOS,Others,7,Meta,,,,,,,,No
+Seamless,890931348469-hlmrkj4fbvm5nbhehln260mdai93fste.apps.googleusercontent.com,Web Application,Others,126,Meta,,,,,,,,No
+Seamless,890931348469-kst676e3nq5gai11pnc6fqqims0nkq1s.apps.googleusercontent.com,Android,Others,9,Meta,,,,,,,,No
+DataCamp,892114885437-01a7plbsu1b2vobuhvnckmmanhb58h3a.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Amazon Alexa,894903566971-8t0rroj5kd45kb6j6uabci3umlulsi5g.apps.googleusercontent.com,Web Application,"Gmail, Calendar",2,,,,,,,,,Yes
+ManualsLib,896757882380-pbcqd6f9ruv5q35rbc8c0ktv0lrl4s9r.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Uber,89939265457-enilmfbsacgcj2b7qq3sc7jc51u5b3ge.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+LogiMgmtTest,901130796052-tjt5v4b20hknuk12jidvpfhak3g8k9vk.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+iHerb,90214605915-o0rel7j9lluv5knbi441k6d9kbkjdopq.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+lastminute.com,903643546156-r87kbv0dkc058d0afnqfvl4f6rtejqj2.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+Logistics Management,905242003990-5um0ld18ego6kf3vbid48locr94dauo7.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Boomerang for Gmail,907372061162-bpu6amvvhit9pf1f6ikqk2jfnoqtu81g.apps.googleusercontent.com,Web Application,Gmail,3,,https://gsuite.google.com/u/2/marketplace/app/app/907372061162,"286,639",4,8,Allows you to schedule messages to be sent or returned at a later date.,"Start using the ultimate email productivity tool today! Make email your secret weapon with this suite of additions to Gmail. 
+
+Boomerang lets you schedule emails to be sent at the optimal time, makes sure you remember to follow up on important messages that don't get a response, lets you add cross-platform read receipts to emails you send, and includes Respondable, an AI assistant that helps you write more effective email. 
+
+This app includes a compose window that lets you send messages through your G Suite account using all of Boomerang's features. Additionally, users can install Boomerang's browser extension (supported browsers: Chrome, Firefox, Safari, Opera) to use Boomerang right inside Gmail. 
+
+Send an email later
+With Boomerang, you can write an email now and schedule it to be sent automatically at the perfect time. Just write the message as you normally would, then click the Send Later button. Use our handy calendar picker or our text box that understands language like ""next Monday"" or ""tomorrow 8am"" to tell Boomerang when to send your message. We'll take it from there.
+
+Remind you if you don’t hear back
+There are times you need to make sure you follow up within a specific time frame after sending a message. You can select to only be reminded if nobody replies, or regardless. This way you won't let messages slip through the cracks and will never forget to follow up with people.
+
+Cross-platform Read Receipts
+Want to know when someone opens your email? With Boomerang's Read Receipts, you'll get notified each time your message gets opened and when links are clicked. Read receipts work across just about all platforms, so you'll get notified if your message is opened on an iPhone or on a laptop. Best of all? Including a read receipt makes it more likely you will get a reply to your messages, and unlike invisible open tracking systems, read receipts don't send your messages to the spam folder.
+
+Respondable: Write better emails with AI
+Add an assistant that uses artificial intelligence to help you write better, more actionable emails in real time. Based on data from millions of messages, Respondable makes every email you send more effective. Whether you're sending cold emails or warm ones, Respondable can help you make sure you strike the right tone, deliver insight into your writing style, and make sure that your email is as likely as possible to get a good response!
+
+Snooze emails (requires associated browser extension)
+Want a cleaner Inbox, but don't want to lose track of important messages? Use Boomerang to take messages out of your Inbox until you actually need them. Just click the Boomerang button when you have an email open, and choose when you need it again. Boomerang will archive your message. At the time you choose, we'll bring it back to your Inbox, marked unread, starred or even at the top of your message list. 
+
+Boomerang can help you:
+* Make sure you follow up with important contacts and sales leads
+* Communicate with people in different time zones
+* Clear out travel confirmation emails, returning them on the day of your trip
+* Schedule birthday/holiday notes when you have time to write them",b4g.baydin.com,Yes
+PnL,907425298244-i75gj2egbj6l7qojhf60fup6lpjch3s5.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Quora,917071888555.apps.googleusercontent.com,Web Application,Others,36,Meta,,,,,,,,No
+"Expedia, Inc.",919023678118-cdrmliol1m0qorr1hm0oe877pnrd02rb.apps.googleusercontent.com,Web Application,Others,3,Meta,,,,,,,,No
+Zapier,927538837578.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Project Default Service Account,936076353769-apdevvhvp2c8sbc0oeuummsvdukh02b0.apps.googleusercontent.com,Web Application,Others,4,Meta,,,,,,,,No
+The Economic Times,936221589938.apps.googleusercontent.com,Web Application,Others,12,Meta,,,,,,,,No
+Fresha,939324003214-fq16j74hi8jl19u6uhfe0b5l6o5nu7q9.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Law Insider,948740859141-jj4vlg2tqi6fqj62q7mvbo8jjam6dclv.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Gliffy,956673946652-p3jb8so76rohn5ql0etb1uso96hssuqh.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+LogMgmtTest,956716877425-7i8areedrokt78i3jsjo309f94nba3ul.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+FortiClient Android,965025121727-lp6qgacmrvb4febv8q8slrkn355bhq35.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Huawei Email,970047679375-mj3cdj7jq2q8gug9l89038r5qmpi25ig.apps.googleusercontent.com,Android,Gmail,1,,,,,,,,,Yes
+Priceline,97269564947-t56o430phqkg9cbg445rqic4tjb3t6b3.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Trainline,973057770020-n8vffgo87n3helc7lqcdun3f71l4g62d.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+LeetCode OJ,975508891494.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+Investing,97683281117-0i3aov82cq5oljjrvq7gvq88eeq7c2ob.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Rent The Runway,981834343854-e607psn9and9s6uh5fkcj9s8jdagrm14.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+ProtectedSheet,983697871415-51514v6fp409k5ceac078bl879r3tum7.apps.googleusercontent.com,Web Application,"Drive, Apps Script Runtime",2,Apps Script,,,,,,,,Yes
+VIZIO SmartCast,984166688818-00tblcugi6s9epdiovlqqi9dq184l0dh.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+Linkedin,990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com,Web Application,Others,2,Meta,,,,,,,,No
+BookMyShow India,990572338172-gk5j2mcf537tpmvbsj369aq16jlt8tfd.apps.googleusercontent.com,Android,Others,1,Meta,,,,,,,,No
+BookMyShow India,990572338172-iibth2em4l86htv30eg1v44jia37fuo5.apps.googleusercontent.com,Web Application,Others,1,Meta,,,,,,,,No
+PnL,992956075369-la5e8i7not0j9otpk1h37fbsar6li54s.apps.googleusercontent.com,Web Application,Drive,1,,,,,,,,,Yes
+Gmail RegEx - Digital Inspiration,995015475506-a3ne7afsehmd6bl3kelcub7i6h5mbbep.apps.googleusercontent.com,Web Application,"Gmail, Drive",1,,,,,,,,,Yes
+FortiClient,997229357422-hm43j8vc4crekmfrvi0sk738mjvifadl.apps.googleusercontent.com,iOS,Others,2,Meta,,,,,,,,No
